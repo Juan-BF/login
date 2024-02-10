@@ -19,4 +19,4 @@ Certifique-se de ter o Node.js instalado em sua máquina. Em seguida, siga estes
 
 1. Clone o repositório para sua máquina local.
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/Juan-BF/login.git)https://github.com/Juan-BF/login.git
